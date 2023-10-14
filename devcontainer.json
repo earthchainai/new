@@ -1,0 +1,8 @@
+{
+  "name": "Desktop Environment in a Container",
+  "version": "1.0.0",
+  "image": "mcr.microsoft.com/vscode/devcontainers/desktop-lite:latest",
+  "extensions": [
+    "ms-vscode.remote-ssh"
+  ]
+}
